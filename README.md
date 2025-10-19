@@ -1,0 +1,2 @@
+# LABORATORIOS DE OVERTHEWIRE-NATAS
+![](https://www.google.com/imgres?q=overthewire%20natas&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*3_D80pZpTAfyJWdNYRX_iQ.png&imgrefurl=https%3A%2F%2Frootissh.in%2Foverthewire-wargames-natas-level-1-15-walkthrough-7a737a0c74da&docid=kC5TD1chG5OOkM&tbnid=AbDWZ4Yi8muinM&vet=12ahUKEwjnstqe0K-QAxUMXEEAHXS-D-YQM3oECGAQAA..i&w=1400&h=783&hcb=2&ved=2ahUKEwjnstqe0K-QAxUMXEEAHXS-D-YQM3oECGAQAA)

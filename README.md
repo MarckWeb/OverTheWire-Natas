@@ -1,5 +1,5 @@
 # LABORATORIOS DE OVERTHEWIRE - NATAS
-![](logo.png)
+![OverTheWire Logo](https://overthewire.org/img/otw-logo.png)
 
 ## Descripción
 Este repositorio contiene todos mis avances y soluciones de los laboratorios de OverTheWire en la serie **Natas**, que se centra en aprender sobre seguridad web y explotación de vulnerabilidades básicas en aplicaciones web. Cada nivel representa un reto diferente y está documentado con la solución y explicación correspondiente.

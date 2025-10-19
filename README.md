@@ -1,2 +1,26 @@
-# LABORATORIOS DE OVERTHEWIRE-NATAS
-![](https://www.google.com/imgres?q=overthewire%20natas&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*3_D80pZpTAfyJWdNYRX_iQ.png&imgrefurl=https%3A%2F%2Frootissh.in%2Foverthewire-wargames-natas-level-1-15-walkthrough-7a737a0c74da&docid=kC5TD1chG5OOkM&tbnid=AbDWZ4Yi8muinM&vet=12ahUKEwjnstqe0K-QAxUMXEEAHXS-D-YQM3oECGAQAA..i&w=1400&h=783&hcb=2&ved=2ahUKEwjnstqe0K-QAxUMXEEAHXS-D-YQM3oECGAQAA)
+# LABORATORIOS DE OVERTHEWIRE - NATAS
+![](logo.png)
+
+## Descripción
+Este repositorio contiene todos mis avances y soluciones de los laboratorios de OverTheWire en la serie **Natas**, que se centra en aprender sobre seguridad web y explotación de vulnerabilidades básicas en aplicaciones web. Cada nivel representa un reto diferente y está documentado con la solución y explicación correspondiente.
+
+## Lo que se aprende
+- Fundamentos de seguridad web.
+- Inyección de código y manipulación de entradas.
+- Manejo de cookies y sesiones.
+- Conceptos de autenticación y autorización.
+- Vulnerabilidades comunes como:  
+  - **Inyección de comandos**  
+  - **Cross-Site Scripting (XSS)**  
+  - **File Inclusion**  
+  - **Exposición de información sensible**
+
+## Herramientas web
+Algunos recursos y herramientas utilizadas para resolver los desafíos:  
+- Navegador web (Firefox/Chrome)  
+- Burp Suite / OWASP ZAP  
+- curl / wget / netcat   
+- Herramientas de depuración de HTML y JavaScript
+
+## Conclusión
+Este repositorio sirve como guía personal y referencia para reforzar conceptos de **seguridad informática en entornos web**. La práctica constante con estos laboratorios ayuda a entender mejor cómo se desarrollan y se explotan vulnerabilidades, y cómo proteger aplicaciones web.

@@ -19,7 +19,7 @@ Este repositorio contiene todos mis avances y soluciones de los laboratorios de 
 Algunos recursos y herramientas utilizadas para resolver los desafíos:  
 - Navegador web (Firefox/Chrome)  
 - Burp Suite / OWASP ZAP  
-- curl / wget / netcat   
+- curl / wget  
 - Herramientas de depuración de HTML y JavaScript
 
 ## Conclusión

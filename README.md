@@ -1,5 +1,5 @@
 # LABORATORIOS DE OVERTHEWIRE - NATAS
-![OverTheWire Logo]([https://overthewire.org/img/otw-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmr-intern.medium.com%2Fwhat-i-learned-from-the-famous-bandit-wargame-on-overthewire-org-part-1-ba54b44dd47a&psig=AOvVaw1zzZu_5vksZM0OJt2jRtRY&ust=1760941922030000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCorcrSr5ADFQAAAAAdAAAAABAJ))
+![OverTheWire Logo](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*UjPiJ89OKYp3NHYGkg6vFA.jpeg)
 
 ## Descripción
 Este repositorio contiene todos mis avances y soluciones de los laboratorios de OverTheWire en la serie **Natas**, que se centra en aprender sobre seguridad web y explotación de vulnerabilidades básicas en aplicaciones web. Cada nivel representa un reto diferente y está documentado con la solución y explicación correspondiente.

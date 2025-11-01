@@ -29,7 +29,6 @@ Al revisar el código, encontré un comentario que contenía la contraseña de `
 
 ![alt text](image-1.png)
 
-
 Con esa contraseña podemos continuar y avanzar al siguiente nivel.
 
 ## Observaciones y recomendaciones
@@ -37,7 +36,6 @@ Con esa contraseña podemos continuar y avanzar al siguiente nivel.
 * Encontrar contraseñas en comentarios HTML es un fallo muy común en entornos de práctica.
 
 * En sistemas reales esto sería un grave problema de seguridad, porque cualquier persona con acceso al navegador puede ver esos comentarios.
-
 
 ## Conclusión
 
